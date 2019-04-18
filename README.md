@@ -1,2 +1,2 @@
 # PortFolio
-eu5.net provides fress hostign services to host and publish your website
+eu5.net provides free hosting services to host and publish your website
